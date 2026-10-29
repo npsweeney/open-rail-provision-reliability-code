@@ -1,0 +1,24 @@
+/data/
+outputs/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+
+historical-analysis/
+*.zip
+*.ods
+*.gz
+bplan_locations.csv
+Table*.csv
+update-review.txt
+
+/web/
+
+# macOS filesystem metadata
+._*
+
+/notebooks/
+/train-index.code-workspace
+/ttwa-scaling/

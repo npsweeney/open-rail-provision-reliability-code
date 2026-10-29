@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this code and the accompanying article, and identify the commit used for reproduction."
+type: software
+title: "Open Rail Provision and Reliability Code"
+authors:
+  - family-names: Sweeney
+    given-names: Nicholas
+    orcid: "https://orcid.org/0000-0001-9349-5863"
+repository-code: "https://github.com/npsweeney/open-rail-provision-reliability-code"
+url: "https://github.com/npsweeney/open-rail-provision-reliability-code"
+abstract: "Reproducible ORR station-call provision, weighted reliability measures, FACI/FADI and linked Great Britain geographies, accompanying The Geography of Connectivity and Disruption: An Open, Updateable Spatial Dataset for Measuring Rail Provision and Reliability in Great Britain."

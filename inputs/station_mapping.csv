@@ -1,0 +1,212 @@
+station_name,tiploc
+Abergele and Pensarn,ABGLELE
+Acton Bridge (Cheshire),ACBG
+Althorne (Essex),ALTHORN
+Ansdell and Fairhaven,ANSDELL
+Armadale (West Lothian),ARMDALE
+Arrochar and Tarbet,ARCHRAT
+Ascot (Berks),ASCOT
+Ascott-Under-Wychwood,ASCTUWD
+Ashchurch for Tewkesbury,ASHCHRC
+Ashford (Surrey),ASFDMSX
+Ashton-Under-Lyne,ASHONUL
+Ashurst (Kent),ASHURST
+Ashwell and Morden,ASHWELC
+Barrow-In-Furness,BAROW
+Barton-On-Humber,BRTHMBR
+Bat and Ball,BATABAL
+Bedford St Johns,BESJOHN
+Bentley (South Yorkshire),BTLYSY
+Berwick (Sussex),BERWICK
+Berwick-Upon-Tweed,BRWCKUT
+Birchington-On-Sea,BCNGNOS
+Blundellsands and Crosby,BLNDLAC
+Borough Green and Wrotham,BORWGAW
+Box Hill and Westhumble,BOXHAWH
+Bradford-On-Avon,BRDFDOA
+Bramley (Hampshire),BMLY
+Bramley (West Yorkshire),BRMLYSR
+Bridge Of Allan,BGOALAN
+Bridge Of Orchy,BOORCHY
+Bromley Cross (Lancs),BRMCRSS
+Bulwell,BULWELL
+Burley-In-Wharfedale,BURLYIW
+Burneside (Cumbria),BNSD
+Burnham (Buckinghamshire),BNHAM
+Burnham-On-Crouch,BRNMONC
+Burnside (South Lanarkshire),BRSDE
+Burton-On-Trent,BURTNOT
+Byfleet and New Haw,BYFLANH
+Caledonian Road and Barnsbury,CLDNNRB
+Cam and Dursley,DURSLEY
+Cark and Cartmel,CARK
+Cefn-Y-Bedd,CEFNYBD
+Chafford Hundred Lakeside,CHADHDD
+Chalfont and Latimer,CHLFNAL
+Chapel-En-Le-Frith,CHEF
+Chapelton (Devon),CHAPLTN
+Chapeltown (South Yorkshire),CHPLTWN
+Chappel and Wakes Colne,CHPWKSC
+Charing (Kent),CRNG
+Chelford (Cheshire),CHELFD
+Chester-Le-Street,CLST
+Chestfield and Swalecliffe,CHSW
+Christs Hospital,CHRSTSH
+Church and Oswaldtwistle,CHOS
+Clifton (Manchester),CLTN
+Cobham and Stoke D'abernon,CBHMSDA
+Combe (Oxon),COMBE
+Cowden (Kent),COWDEN
+Cranbrook (Devon),CBRK
+Cressing (Essex),CRESING
+Creswell,CRWLL
+Dalston (Cumbria),DALSTON
+Dalton (Cumbria),DALTON
+Dean (Wilts),DEAN
+Derby Road (Ipswich),DERBYRD
+Digby and Sowton,DIGBY
+Durrington-On-Sea,DRNGTOS
+Edenbridge (Kent),EDNB
+Elsenham (Essex),ELSENHM
+Elton and Orston,ELTON
+Energlyn and Churchill Park,ERGNCHP
+Epsom (Surrey),EPSM
+Falls Of Cruachan,FLSCRHN
+Finchley Road and Frognal,FNCHLYR
+Fishguard and Goodwick,FGDHGWK
+Goring and Streatley,GORASTR
+Goring-By-Sea,GORNGBS
+Grange-Over-Sands,GOVS
+Greenhithe for Bluewater,GNHT
+Haddenham and Thame Parkway,HADMATP
+Hampton (London),HAMPTON
+Hampton-In-Arden,HMPTNIA
+Harlington (Bedfordshire),HRLG
+Harrow and Wealdstone,HROW
+Harrow-On-The-Hill,HAROOTH
+Hartford (Cheshire),HARTFD
+Hatfield (Herts),HATFILD
+Hatfield and Stainforth,HTFLASF
+Hayes and Harlington,HAYESAH
+Heathrow Terminal 5 (Rail Station Only),HTRWTM5
+Henley-In-Arden,HENLYIA
+Henley-On-Thames,HNLYOT
+Highbridge and Burnham,HGHBRDG
+Hinckley (Leics),HINCKLY
+Hoveton and Wroxham,WROXHAM
+Kearsney (Kent),KSNY
+Kirkby-In-Furness,KRKBYIF
+Kirkham and Wesham,KIRKHAM
+Kyle Of Lochalsh,KYLELSH
+Langley (Berks),LANGLEY
+Langwith-Whaley Thorns,LGWITH
+Layton (Lancs),LAYTON
+Lazonby and Kirkoswald,LAZKRKO
+Lee (London),LEEE
+Leigh-On-Sea,LHONSEA
+Leuchars (For St. Andrews),LEUCHRS
+Lisvane and Thornhill,LTHH
+Marden (Kent),MARDEN
+Marsden (Yorks),MRSN
+Melton (Suffolk),MELTON
+Moreton-In-Marsh,MINMARS
+Mottisfont and Dunbridge,MOTFONT
+Muir Of Ord,MUROORD
+Nailsea and Backwell,NAILSEA
+Newton For Hyde,NWTH
+Newton-Le-Willows,NWTNLW
+Newton-On-Ayr,NWTOA
+Pembrey and Burry Port,PMBRYBP
+Pentre-Bach,PNTRBCH
+Pevensey and Westham,PVNSYAW
+Portsmouth and Southsea,PSEA
+Possilpark and Parkhouse,POSILPK
+Poulton-Le-Fylde,PLTNLFY
+Risca and Pontymister,RISCA
+Sandal and Agbrigg,SABR
+Sandwell and Dudley,SNDWDUD
+Sankey For Penketh,SANKEY
+Seaforth and Litherland,SFRTHAL
+Sheerness-On-Sea,SHRNSOS
+Shelford (Cambs),SHELFD
+Sherburn-In-Elmet,SHBN
+Shipley (Yorks),SHPY
+Shoreham-By-Sea,SHRHMBS
+Stanford-Le-Hope,SLEHOPE
+Stanlow and Thornton,STNLWAT
+Steeton and Silsden,STEETON
+Stoke-On-Trent,STOKEOT
+Stratford-Upon-Avon,SOAV
+Sudbury and Harrow Road,SDBRYHR
+Walton-On-Thames,WONT
+Watton-At-Stone,WATONAS
+Westgate-On-Sea,WESGTOS
+Weston-Super-Mare,WSMARE
+London St Pancras International,STPX
+Barrow-Upon-Soar,BAROWOS
+Bentley (Hampshire),BNTEY
+Bishopstone (Sussex),BSSN
+Bishopton (Renfrewshire),BISHPTN
+Dockyard (Devonport),DOCKYDP
+Dorking (Main),DORKING
+Dunkeld and Birnam,DUNKELD
+Eccles (Manchester),ECCLES
+Elephant and Castle,ELPHNAC
+Elstree and Borehamwood,ELTR
+Exeter St David's,EXETRSD
+Fishbourne (Sussex),FSHBORN
+Garth (Bridgend County),GRTHMG
+Hale (Manchester),HALE
+Hall-I'-Th'-Wood,HITW
+Heathrow Terminal 4 (Rail Station Only),HTRWTM4
+Heathrow Terminals 2 and 3 (Rail Station Only),HTRWAPT
+How Wood (Hertfordshire),HOWWOOD
+Ince and Elton (Cheshire),INEL
+James Cook University Hospital,JAMCOK
+Johnston (Pembs),JHNSTND
+Johnstone (Renfrewshire),JOHNSTN
+Kearsley (Manchester),KEARSLY
+Kempton Park Racecourse,KMPTNPK
+Kensington Olympia,KENOLYM
+Kirkby (Merseyside),KKBY
+Kirkby-in-Ashfield,KRKYCEN
+Newark Northgate,NEWANG
+Newton (Lanark),NWTL
+North Road (Darlington),NTRD
+Northumberland Park (Tyne and Wear),NBRLPK
+Pen-Y-Bont (Mid Wales),PYBONT
+Penrith (North Lakes),PNTH
+Penryn (Cornwall),PRYN
+Pontypool and New Inn,PONTYPL
+Preston (Lancs),PRST
+Prestwick International Airport,PWCKAPT
+Priesthill and Darnley,PHLD
+Queens Road (Peckham),PCKHMQD
+Radcliffe (Nottinghamshire),RADNOT
+Ravenglass for Eskdale,RGLS
+Reedham (London),REEDHMS
+Rhoose Cardiff International Airport,RHOOSE
+Rye (Sussex),RYEE
+Seaford (Sussex),SEAFORD
+St James Park (Exeter),STJAMSP
+St James Street (Walthamstow),STJMSST
+St Keyne Wishing Well Halt,STKEYNE
+Stamford (Lincs),STAMFD
+Staveley (Cumbria),STAVELY
+Stone (Staffs),STONE
+Streatham (Greater London),STRETHM
+Strood (Kent),STROOD
+Stroud (Gloucs),STRUD
+Swindon (Wilts),SDON
+Sydenham (London),SYDENHM
+The Lakes (Warks),THELAKS
+University (Birmingham),UNVRSYB
+Upton (Merseyside),UPTON
+Ware (Herts),WARE
+Wareham (Dorset),WARHAM
+Whalley (Lancashire),WHALLEY
+Whitchurch (Hampshire),WHTCHRH
+Whitton (London),WHTTON
+Whitwell (Derbyshire),WHWLL
+Windsor and Eton Central,WINDSEC
+Windsor and Eton Riverside,WSORAER
